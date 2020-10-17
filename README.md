@@ -5,8 +5,6 @@ Its an arcade game that i got inspiration from a youtuber called [Jabrils](https
 * **Reddit Post**: [link](https://www.reddit.com/r/raspberry_pi/comments/bvqpgn/pretty_proud_of_my_first_raspberry_pi_project_yes/)
 
 
-<br >
-
 * ``Backend.py`` <br >
   Contains some of the blinking LED functions
 * ``RUNIT.py`` <br >
